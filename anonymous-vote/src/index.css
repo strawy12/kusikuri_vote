@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+button {
+  margin: 0.3rem;
+  padding: 0.5rem 1rem;
+}
